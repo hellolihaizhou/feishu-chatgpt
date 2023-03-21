@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	maxTokens   = 25000
+	maxTokens   = 4097
 	temperature = 1
 	engine      = "gpt-3.5-turbo"
 )
